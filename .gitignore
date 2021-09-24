@@ -130,3 +130,6 @@ dmypy.json
 
 #API Key
 config.py
+
+# MacOS
+.DS_Store
